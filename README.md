@@ -1,2 +1,1 @@
-Bir fotoğraf yarışması düşünün. Bu fotoğraf yarışmasına gerçek fotoğraf yerine yapay zeka tarafından üretilmiş fotoğraflar gönderilmesi ne kadar kötü olurdu değil mi? 
-Bunu engellemek için bu websitesini yaptım. Bu websitesi yüklediğiniz fotoğrafın kedi mi köpek mi olduğunu ayrıca yapay zeka mı yoksa gerçek mi olduğunu algılayabiliyor.
+Consider a photo contest. How bad would it be if artificial intelligence-generated photos were sent to this photo contest instead of real photos? I created this website to prevent this. This website can detect whether the photo you upload is a cat or a dog, and whether it is artificial intelligence or real.
